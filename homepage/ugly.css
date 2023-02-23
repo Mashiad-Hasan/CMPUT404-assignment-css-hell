@@ -1,0 +1,34 @@
+body {
+background-image: url("https://wallpaperset.com/w/full/d/9/2/26654.jpg");
+text-align: center;
+}
+
+
+h1 {
+    color: #43A6C6
+}
+
+h2{
+    color: #FFDF00;
+}
+div.column {
+    display: flex;
+    justify-content: center;
+}
+div.about_text{
+    text-align: center !important;
+}
+span.fig {
+    display: flex ; 
+    justify-content: left;
+    position: absolute;
+    top: 10em;
+    left: 8em;
+   
+}
+  
+/* Table formatting */
+table.table-style {
+text-align: center;
+border-spacing: 15px;
+}
