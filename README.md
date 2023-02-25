@@ -21,5 +21,5 @@ Code is licensed under the Apache 2.0 license.
 
 ### The following changes were made to the project gutenberg HTML files:
 - Added an image caption mentioning the title and the author of the book
-- Added a reference to the css file with the following: "<link rel="stylesheet" href="style.css">"
+- Added a reference to the css file with the following: link rel="stylesheet" href="style.css"
 
