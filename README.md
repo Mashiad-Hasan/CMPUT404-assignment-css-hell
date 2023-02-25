@@ -20,6 +20,6 @@ Code is licensed under the Apache 2.0 license.
 
 
 ### The following changes were made to the project gutenberg HTML files:
-- Added an image caption mentioning the title and the author of the book
+- Added an image caption mentioning the title and the author of the book, intending to place the captions below the book cover images
 - Added a reference to the css file with the following: link rel="stylesheet" href="style.css"
 
